@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react'
-import Products from './assets/products/products'
+import Products from './products/products'
 const promiseApi=fetch('https://dummyjson.com/products')
 .then(res=>res.json())
 function App() {
