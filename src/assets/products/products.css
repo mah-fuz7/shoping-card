@@ -1,0 +1,22 @@
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: rgb(27, 186, 231);
+    margin-top: 5%;
+    margin-left: 43%;
+}
+.sub-header{
+    font-size: small;
+    color: cadetblue;
+      margin-left: 40%;
+      margin-top: 0%;
+}
+.main{
+    border: 2px solid white;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+}

@@ -1,0 +1,14 @@
+.img{
+    height: 30%;
+    width: 30%;
+    object-fit: cover;
+  padding-left: 30%;
+
+}
+.card{
+    border: 2px solid whitesmoke;
+    padding: 5px;
+}
+.added{
+  background-color: chartreuse;
+}
